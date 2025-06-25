@@ -73,7 +73,6 @@ BatteryPackSafetyMonitor/
 ## 📄 Documentation
 
 - 📘 `BatteryMonitor_Technical_Report.pdf`: Technical details on architecture, logic, simulation, and testing.
-- 📝 `BatteryMonitor_Technical_Report.docx`: Editable Word version of the report.
 
 ---
 
