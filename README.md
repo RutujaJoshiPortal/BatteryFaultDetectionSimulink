@@ -1,6 +1,6 @@
 # 🔋 Battery Pack Safety Monitor
 
-This project is a **Simulink-based Battery Pack Safety Monitor** designed to detect unsafe conditions in lithium-ion battery packs. It monitors key electrical and thermal parameters, generates fault flags, and is ready for **C code generation** for embedded system deployment.
+This project is a **Battery Fault Detection Using Simulink** designed to detect unsafe conditions in lithium-ion battery packs. It monitors key electrical and thermal parameters, generates fault flags, and is ready for **C code generation** for embedded system deployment.
 
 ---
 
@@ -43,7 +43,7 @@ BatteryPackSafetyMonitor/
 - Embedded Coder (for advanced target integration)
 
 ### Run the Model
-1. Open `BatteryMonitor.slx` in MATLAB Simulink.
+1. Open `BatteryFaaultDetectionSimulink.slx` in MATLAB Simulink.
 2. Set thresholds via `Constant` blocks.
 3. Run simulations using `Signal Builder` or `From Workspace` blocks.
 4. View fault outputs via `Scope` blocks or the model’s `Outports`.
@@ -72,7 +72,7 @@ BatteryPackSafetyMonitor/
 
 ## 📄 Documentation
 
-- 📘 `BatteryMonitor_Technical_Report.pdf`: Technical details on architecture, logic, simulation, and testing.
+- 📘 `BatteryFaultDetectionSimulink_Technical_Report.pdf`: Technical details on architecture, logic, simulation, and testing.
 
 ---
 
